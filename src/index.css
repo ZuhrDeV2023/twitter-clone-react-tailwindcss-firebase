@@ -16,7 +16,7 @@
   }
 
   .container {
-    @apply w-[1930px] max-w-full mx-auto px-[15px];
+    @apply w-[1625px] max-w-full mx-auto px-[15px];
   }
 
   .main {
